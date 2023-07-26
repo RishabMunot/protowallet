@@ -6,7 +6,7 @@
 ## Usage
 |Where   	|Steps	|Data Storage   	|
 |:----------:|:-------------:|:------:|
-|Web 🌐 	|Visit web link (Coming soon) |Data stored in browser's memory (IndexedDB). 	|
+|Web 🌐 	|Visit web [link](https://app.protowallet.xyz) |Data stored in browser's memory (Local Storage). 	|
 |Your PC 💻   	|Download software (Coming soon)   	|Data stored on disk.   	|
 |Docker 🐳  	|Pull docker image (Coming soon)   	|Data stored on mounted volume   	|
 |Server 🫣|Start a server and access privately from anywhere.(Coming soon)|Data stored on server's disk.|
