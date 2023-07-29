@@ -1,0 +1,11 @@
+{
+  "eslint.validate": ["javascript", "javascriptreact", "typescipt", "typescriptreact"],
+  "eslint.format.enable": true,
+  "eslint.workingDirectories": [{ "mode": "auto" }],
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": { "editor.action.fixAll": true, "source.fixAll.eslint": true },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.insertSpaces": true,
+  "files.trimTrailingWhitespace": true,
+  "[handlebars]": { "editor.formatOnSave": true }
+}
