@@ -53,10 +53,10 @@ function App() {
 
   return (
     <>
-      <div className='block lg:hidden'>
+      <div className="block lg:hidden">
         <SingleMessageComponent title="🚧" description="This app is not yet optimized for mobile. Please use a desktop browser." />
       </div>
-      <div className='hidden lg:block'>
+      <div className="hidden lg:block">
         {!proto && <SelectorScreen dbSelected={createProto} />}
         {proto && (
           <ProtoContext.Provider value={proto}>
